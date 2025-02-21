@@ -1,6 +1,14 @@
 {
     "name": "@bearz/chars",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "description": "A simple library for working with characters and Unicode in JavaScript.",
+    "keywords": [
+        "chars",
+        "characters",
+        "simplefold",
+        "unicode",
+        "runes"
+    ],
     "exports": {
         ".": "./mod.ts",
         "./all": "./all.ts",
